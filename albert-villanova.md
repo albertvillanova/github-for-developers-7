@@ -3,3 +3,4 @@
 - Favorite food: **Chickpeas**
 - Favorite color: **red**
 - Hobby: **Learning**
+- Current city: **Montpellier**
